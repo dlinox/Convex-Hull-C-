@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1526451318 source:d:\epis\av\denis_puma_t\convexhull\main.cpp
+	<vector>
+	<iostream>
+	<algorithm>
+	<windows.h>
+	<windowsx.h>
+	<commctrl.h>
+	<stdio.h>
+	<iomanip>
+	<cstdlib>
+	<stdlib.h>
+	"resource.h"
+
+1526444854 d:\epis\av\denis_puma_t\convexhull\resource.h
+
+1526451479 source:d:\epis\av\denis_puma_t\convexhull\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1550524956 source:d:\linox\epis\av\denis_puma_t\convexhull\main.cpp
+	<vector>
+	<iostream>
+	<algorithm>
+	<windows.h>
+	<windowsx.h>
+	<commctrl.h>
+	<stdio.h>
+	<iomanip>
+	<cstdlib>
+	<stdlib.h>
+	"resource.h"
+
+1533476604 d:\linox\epis\av\denis_puma_t\convexhull\resource.h
+
+1533476604 source:d:\linox\epis\av\denis_puma_t\convexhull\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
